@@ -12,9 +12,9 @@
 8.	Artis/Bands - users can know which artist or band is performing in their particular area.
 
 ### install libraries
-pip install -r requirements.txt
-pip install sqlalchemy
-pip install pytest
+- pip install -r requirements.txt
+- pip install sqlalchemy
+- pip install pytest
 
 ###  database models for the app:
 - Created a database schema and tables using an ORM (Object-Relational Mapping) tool like SQLAlchemy.
