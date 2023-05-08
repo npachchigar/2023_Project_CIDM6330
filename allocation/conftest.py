@@ -2,6 +2,7 @@ import pytest
 from allocation.entrypoints import create_app
 from allocation.entrypoints import get_db, init_db
 
+
 # Set up the app for testing
 @pytest.fixture(scope='session')
 def app():
